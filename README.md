@@ -1,4 +1,4 @@
-<h2>Xylophone App: Interactive Musical Instrument <img src="https://example.com/path/to/xylophone-icon.png" alt="icon" width="50" height="50"></h2>
+<h2>Xylophone App: Interactive Musical Instrument </h2>
 <p><strong>Overview</strong></p>
 <p>The Xylophone App is an interactive musical instrument designed for iOS users. This app allows users to play different musical notes by tapping on a virtual xylophone. Users can also record their musical performances, save them, and replay them later. The app provides a fun and educational experience, especially for those interested in learning about music and rhythm.</p>
 <p><strong>App Demonstration Video:</strong></p>
